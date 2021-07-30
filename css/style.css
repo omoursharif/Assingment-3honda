@@ -1,6 +1,8 @@
 .honda-bg-success{
     background-color: #264653;
+    
 }
+
 
 .featured{
     display: flex;
@@ -121,5 +123,5 @@
 .according .according-2 .according-3 .according-4{
     height: auto;
     width: auto;
-    margin-right: 8rem;
+    
 }
