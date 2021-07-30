@@ -1,0 +1,125 @@
+.honda-bg-success{
+    background-color: #264653;
+}
+
+.featured{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dibba{
+    margin-top: 5rem;
+    margin-bottom: 0.5rem;
+}
+
+.dibba-p{
+    color: #E76F51;
+    ;
+    text-decoration: underline;
+    margin-top: 160px;
+    margin-left: -240px;
+    margin-bottom: 1rem;
+}
+
+.chobi{
+    
+    height: 300px;
+}
+
+.chobi .ek-no img{
+    
+    width: 288px;
+    height: 243px;
+    left: 156px;
+    top: 975px;
+    
+    background: url(Rectangle 4637.jpg);
+    mix-blend-mode: luminosity;
+}
+
+.chobi .dui-no img{
+   
+    width: 288px;
+    height: 243px;
+    left: 156px;
+    top: 975px;
+}
+
+.chobi .tin-no img{
+   
+    width: 288px;
+    height: 243px;
+    left: 156px;
+    top: 975px;
+    
+    background: url(Rectangle 4637.jpg);
+    mix-blend-mode: luminosity;
+}
+
+.chobi{
+
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.card-h1{
+    color: #0A0826;
+    width: 478px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.card-heading{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-picture{
+    margin-top: 52px;
+}
+.card-img-top{
+    height: 150px;
+    width: 150px;
+    margin-top: 40px;
+    margin-left: calc(50% - 149px/2);
+}
+.card-img-top-last{
+    border-radius: 80px;
+    height: 150px;
+    width: 150px;
+    margin-top: 40px;
+    margin-left: calc(50% - 149px/2);
+}
+
+/* final stage */
+.container{
+    margin-top: 159px;
+}
+.frequent{
+    
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color:#0D0925
+    
+}
+.final{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pic img{
+    height: 431px;
+    width: 424px;
+    ;
+}
+.according .according-2 .according-3 .according-4{
+    height: auto;
+    width: auto;
+    margin-right: 8rem;
+}
